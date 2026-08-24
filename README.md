@@ -33,7 +33,7 @@ Recommended if you wish to create your own sprites, or modify the source code.
 
 ## Known Issues & Limitations
 
-Because *Deltarune* handles lighting systems, cutscene sprite overrides, and room rendering differently across chapters, please keep the following known behaviors in mind during the beta.
+Because Deltarune handles lighting systems, cutscene sprite overrides, and room rendering differently across chapters, please keep the following known behaviors in mind during the beta.
 
 * **Cutscene Visibility:** 
   * **Chapter 1:** Cutscenes do not currently support dynamic overlays. Equipment overlays will temporarily disappear during cutscene animations and reappear once control returns to the player.
@@ -79,6 +79,7 @@ I started learning how to code about a year ago, and this is my first ever publi
 ## License and Usage
 
 **Code:** Licensed under [GNU General Public License v3.0 (GPL-3.0)](./LICENSE).
+
 **Sprites:** Original artwork is created for this project. You can create and distribute your own custom replacement sprites using this system.
 
 *Disclaimer: Deltarune: Dynamic Equips is an unofficial fan-made project and is not affiliated with Toby Fox or Materia Collective.*
