@@ -24,7 +24,9 @@ Includes all the scripts and all the sprites. Recommended for most players.
 3. Open Deltarune's Local Files using "Browse Local Files" in Steam.
 4. Use Deltapatcher to patch each respective '.xdelta' file in [`patches/`](./patches) over each Chapter's 'data.win' file.
 
-Alternatively, you can also use G3M to load the mod. Upload the zip 'Dynamic Equips G3M.zip' to your G3M library.
+Alternatively, you can also use G3M to load the mod. Upload the zip 'Dynamic Equips G3M.zip' to your G3M library."
+
+Alternatively alternatively, you can use Deltamod to download the mod off of GameBanana. If that doesn't work import the mod manually by importing the 'dynamic_equips_deltamodcompat.zip' file into DeltaMod.
 
 ### Developers & Artists
 
