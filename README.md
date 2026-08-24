@@ -9,7 +9,7 @@ Currently supports all obtainable armors and scarves in Chapters 1-5
 Over 1k+ hand-drawn sprites for every armor equip and scarf in Deltarune for Kris, Susie, and Ralsei.
 Armors are worn differently depending on who's wearing it, and what armor slot it occupies.
 
-<img width="842" height="510" alt="image" src="https://github.com/user-attachments/assets/7d7d5ba9-f1c1-412c-8889-080a4009f01e" />
+<img width="842" height="510" alt="image" src="https://github.com/user-attachments/assets/070b7557-2a72-4072-bd32-dabec0c4c8ae" />
 
 Example of how Kris, Susie, and Ralsei wear the Red Ribbon item differently.
 
