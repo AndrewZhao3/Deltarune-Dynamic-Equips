@@ -4,10 +4,7 @@ Dynamic Equips is an open-source mod for Deltarune that dynamically renders weap
 
 Currently supports all obtainable armors and scarves in Chapters 1-5
 
-Mod Showcase:
-[
-
-](https://youtu.be/j03TvN70B0A)
+Mod Showcase: (https://youtu.be/j03TvN70B0A)
 ## Features
 
 Over 1k+ hand-drawn sprites for every armor equip and scarf in Deltarune for Kris, Susie, and Ralsei.
