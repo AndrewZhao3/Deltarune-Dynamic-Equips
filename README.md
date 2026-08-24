@@ -11,7 +11,7 @@ Armors are worn differently depending on who's wearing it, and what armor slot i
 
 <img width="842" height="510" alt="image" src="https://github.com/user-attachments/assets/070b7557-2a72-4072-bd32-dabec0c4c8ae" />
 
-Example of how Kris, Susie, and Ralsei wear the Red Ribbon item differently.
+Example of how Kris, Susie, and Ralsei wear the Red Ribbon armor differently.
 
 ## Installation Guide
 
@@ -44,8 +44,38 @@ Because *Deltarune* handles lighting systems, cutscene sprite overrides, and roo
   * Chapter 4 is currently the most experimental due to how the game handles room lighting.
   * Overlays are set by default to draw *above* room lighting effects in Chapters 4 and 5. Because of this, equipment overlays may sometimes remain bright or ignore ambient dark/light shaders in specific lit areas.
 
+* **Misc**:
+ * Overlays do not render during feather mode in Chapter 5.
+ * Overlays do not render during climbing mode in Chapters 4 and 5.
+ * Some items for Hatted Ralsei do not appear because they are being worn under his cloak :) (totally wasn't too lazy to draw them.)
+ * The BlueShoes weapon currently lacks a sprite overlay due to rendering difficulties.
+
 **Found a new issue or crash?** Submit a bug report under the [Issues](../../issues) tab. Please include your Chapter, room, and current equipped items in both slots.
 
+## Planned Features
+
+### Bug Fixes:
+
+* Cutscene Overlays for Chapter 1
+* Chapter 4 Lighting Refinements
+
+### Planned Features:
+
+* Feather mode overlay support
+* Climbing mode overlay support
+* Noelle update
+* Expanded Cutscene Coverage
+
+### Probably not happening:
+
+* Armor & Weapon overlays for battle mode.
+
+## About the Dev:
+
+Hi, I'm Andrew, the creator behind Dynamic Equips.
+
+I started learning how to code about a year ago, and this is my first ever public project! I hope you like it :)
+  
 ## License and Usage
 
 **Code:** Licensed under [GNU General Public License v3.0 (GPL-3.0)](./LICENSE).
