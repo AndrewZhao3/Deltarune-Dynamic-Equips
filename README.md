@@ -1,6 +1,6 @@
 # Deltarune: Dynamic-Equips Mod (BETA)
 
-**Dynamic Equips** is an open-source mod for *Deltarune* that dynamically renders weapons and armor overlays onto overworld character sprites.
+Dynamic Equips is an open-source mod for *Deltarune* that dynamically renders weapons and armor overlays onto overworld character sprites.
 
 Currently supports all obtainable armors and scarves in Chapters 1-5
 
