@@ -33,7 +33,7 @@ Recommended if you wish to create your own sprites, or modify the source code.
 
 ## Known Issues & Limitations
 
-Because *Deltarune* handles lighting systems, cutscene sprite overrides, and room rendering differently across chapters, please keep the following known behaviors in mind during the **BETA**:
+Because *Deltarune* handles lighting systems, cutscene sprite overrides, and room rendering differently across chapters, please keep the following known behaviors in mind during the beta.
 
 * **Cutscene Visibility:** 
   * **Chapter 1:** Cutscenes do not currently support dynamic overlays. Equipment overlays will temporarily disappear during cutscene animations and reappear once control returns to the player.
