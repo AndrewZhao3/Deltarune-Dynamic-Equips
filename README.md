@@ -2,7 +2,7 @@
 
 **Dynamic Equips** is an open-source mod for *Deltarune* that dynamically renders weapons and armor overlays onto overworld character sprites.
 
-Currently supports Chapters 1-5
+Currently supports all obtainable armors and scarves in Chapters 1-5
 
 ## Features
 
@@ -24,8 +24,23 @@ Includes all the scripts and all the sprites. Recommended for most players.
 Recommended if you wish to create your own sprites, or modify the source code.
 
 1. Download UndertaleModLoader
-2. Follow the steps in "Full Patch" to patch each respective '.xdelta' file in ['code_only/'] over each Chapter's 'data.win' file.
+2. Follow the steps in "Full Patch" to patch each respective '.xdelta' file in ['code_only/'](./code_only) over each Chapter's 'data.win' file.
 3. You can now add your own sprites or edit the code.
+
+## Known Issues & Limitations
+
+Because *Deltarune* handles lighting systems, cutscene sprite overrides, and room rendering differently across chapters, please keep the following known behaviors in mind during the **BETA**:
+
+* **Cutscene Visibility:** 
+  * **Chapter 1:** Cutscenes do not currently support dynamic overlays. Equipment overlays will temporarily disappear during cutscene animations and reappear once control returns to the player.
+  * **Chapters 2–5:** Overlays are functional in most cutscenes, but may temporarily disappear during certain scripted story poses or character-specific animations.
+* **Sprite Layering & Depth (Ch. 4 & 5):** 
+  * In some specific rooms in **Chapter 4** (and very rarely in **Chapter 5**), overlays may occasionally render *underneath* character sprites instead of on top.
+* **Lighting Engine Interactions (Ch. 4 & 5):** 
+  * **Chapter 4** is currently the most experimental due to how the game handles room lighting.
+  * Overlays are set by default to draw *above* room lighting effects in Chapters 4 and 5. Because of this, equipment overlays may sometimes remain bright or ignore ambient dark/light shaders in specific lit areas.
+
+**Found a new issue or crash?** Feel free to submit a bug report under the [Issues](../../issues) tab! Please include your Chapter, room, and current equipped items in both slots.
 
 ## License and Usage
 
