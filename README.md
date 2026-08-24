@@ -18,10 +18,12 @@ Example of how Kris, Susie, and Ralsei wear the Red Ribbon armor differently.
 ### Full Patch 
 Includes all the scripts and all the sprites. Recommended for most players.
 
-1. Download this modpack.
+1. Download this mod.
 2. Download [DeltaPatcher](https://www.romhacking.net/utilities/704/).
 3. Open Deltarune's Local Files using "Browse Local Files" in Steam.
 4. Use Deltapatcher to patch each respective '.xdelta' file in [`patches/`](./patches) over each Chapter's 'data.win' file.
+
+Alternatively, you can also use G3M to load the mod. Upload the zip 'Dynamic Equips G3M.zip' to your G3M library.
 
 ### Developers & Artists
 
