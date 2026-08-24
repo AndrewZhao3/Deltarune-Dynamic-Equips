@@ -1,0 +1,41 @@
+Sprite Naming Conventions
+
+Kris:
+
+spr_equip_arm[ID]_slot[0-1]_spr_kris[d,u,r,l]_dark
+
+Example: spr_equip_arm1_slot0_spr_krisd_dark
+
+Susie:
+
+Chapter 1:
+spr_equip_arm[ID]_slot[0-1]_spr_susie[d,u,r,l]_dark
+
+Example: spr_equip_arm1_slot0_spr_susied_dark
+
+Chapter 2-5:
+
+spr_equip_arm[ID]_slot[0-1]_spr_susie_walk_[up,down,right,left]_dw
+
+Example: spr_equip_arm1_slot0_spr_susie_walk_down_dw
+
+Ralsei:
+
+Chapter 1 (Hatted Ralsei)
+
+spr_equip_[arm,wep][ID]_slot[0-1]_spr_ralsei[u,d,r,l]
+
+Example: spr_equip_arm1_slot0_spr_ralseid
+
+Chapter 2-5
+
+spr_equip_[arm,wep][ID]_slot[0-1]_spr_ralsei_walk_[up,down,right,left]
+
+
+Note:
+
+arm = armor
+wep = weapon
+ID = weapon/armor ID
+slot[0-1] = armor slots 1 and 2 respectively. For weapons, always slot[0].
+
