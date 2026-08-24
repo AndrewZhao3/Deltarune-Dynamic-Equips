@@ -39,9 +39,9 @@ Because *Deltarune* handles lighting systems, cutscene sprite overrides, and roo
   * **Chapter 1:** Cutscenes do not currently support dynamic overlays. Equipment overlays will temporarily disappear during cutscene animations and reappear once control returns to the player.
   * **Chapters 2–5:** Overlays are functional in most cutscenes, but may temporarily disappear during certain scripted story poses or character-specific animations.
 * **Sprite Layering & Depth (Ch. 4 & 5):** 
-  * In some specific rooms in **Chapter 4** (and very rarely in **Chapter 5**), overlays may occasionally render underneath character sprites instead of on top.
+  * In some specific rooms in Chapter 4 (and very rarely in Chapter 5), overlays may occasionally render underneath character sprites instead of on top.
 * **Lighting Engine Interactions (Ch. 4 & 5):** 
-  * **Chapter 4** is currently the most experimental due to how the game handles room lighting.
+  * Chapter 4 is currently the most experimental due to how the game handles room lighting.
   * Overlays are set by default to draw *above* room lighting effects in Chapters 4 and 5. Because of this, equipment overlays may sometimes remain bright or ignore ambient dark/light shaders in specific lit areas.
 
 **Found a new issue or crash?** Submit a bug report under the [Issues](../../issues) tab. Please include your Chapter, room, and current equipped items in both slots.
