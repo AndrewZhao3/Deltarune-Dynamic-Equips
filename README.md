@@ -1,4 +1,4 @@
-# Deltarune: Dynamic-Equips Mod (BETA)
+# Deltarune: Dynamic-Equips Mod (NOELLE UPDATE) (BETA)
 
 Dynamic Equips is an open-source mod for Deltarune that dynamically renders weapons and armor overlays onto overworld character sprites.
 
@@ -7,7 +7,7 @@ Currently supports all obtainable armors and scarves in Chapters 1-5
 Mod Showcase: (https://youtu.be/j03TvN70B0A)
 ## Features
 
-Over 1k+ hand-drawn sprites for every armor equip and scarf in Deltarune for Kris, Susie, and Ralsei.
+Over 1k+ hand-drawn sprites for every armor equip and scarf in Deltarune for Kris, Susie, Ralsei, and Noelle.
 Armors are worn differently depending on who's wearing it, and what armor slot it occupies.
 
 <img width="842" height="510" alt="image" src="https://github.com/user-attachments/assets/070b7557-2a72-4072-bd32-dabec0c4c8ae" />
@@ -68,7 +68,6 @@ Because Deltarune handles lighting systems, cutscene sprite overrides, and room 
 
 * Feather mode overlay support
 * Climbing mode overlay support
-* Noelle update
 * Expanded Cutscene Coverage
 
 ### Probably not happening:
