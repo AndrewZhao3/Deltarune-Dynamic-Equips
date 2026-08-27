@@ -1,5 +1,9 @@
 # Deltarune: Dynamic-Equips Mod (NOELLE UPDATE) (BETA)
 
+This branch is the Noelle update. Here are a list of the features added:
+
+- 50+ Sprites for all obtainable Chapter 1 & Chapter 2 armors for Noelle, and all her rings aswell.
+
 Dynamic Equips is an open-source mod for Deltarune that dynamically renders weapons and armor overlays onto overworld character sprites.
 
 Currently supports all obtainable armors and scarves in Chapters 1-5
